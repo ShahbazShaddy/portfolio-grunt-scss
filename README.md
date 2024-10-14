@@ -37,6 +37,6 @@ Make sure you have the following installed:
 - cssmin: Minifies the CSS files.
 - watch: Watches for changes in SCSS files and automatically recompiles and minifies them.
 9. **How to Use**
-10. - Modify the SCSS files in the assets/css folder as needed.
+- Modify the SCSS files in the assets/css folder as needed.
 - Run grunt to transpile SCSS to CSS and minify it.
 - The resulting CSS files will be placed in the same directory (assets/css).
