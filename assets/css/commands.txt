@@ -1,0 +1,12 @@
+Auto-Prefixer run: postcss --use autoprefixer -o custom-prefixed.css blk-design-system.css --no-map
+
+npm Installation: npm install sass
+
+conversion: node convert-scss-to-css.js
+
+Grunt Installation: 
+1) npm install -g grunt-cli
+2) npm install grunt --save-dev (Navigate to your project directory and run)
+3) npm install grunt-sass grunt-contrib-cssmin grunt-contrib-watch --save-dev (Installing Plugins)
+4) grunt (Run)
+
