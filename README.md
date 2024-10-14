@@ -31,6 +31,7 @@ Make sure you have the following installed:
    grunt
    ```
 6. **File Structure**
+
 ![Project Structure](assets/img/Structure.png)
 8. **Grunt Tasks**
 - sass: Compiles SCSS to CSS.
